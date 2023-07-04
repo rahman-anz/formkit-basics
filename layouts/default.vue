@@ -4,6 +4,7 @@
   <nav>
     <nuxt-link to="/">Form Fields</nuxt-link>
     <nuxt-link to="/new">New Form</nuxt-link>
+    <nuxt-link to="/schema">Schema</nuxt-link>
   </nav>
   <slot />
 </template>
