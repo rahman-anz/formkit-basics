@@ -1,5 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ["@formkit/nuxt"],
+  modules: ["@formkit/nuxt", "@nuxtjs/tailwindcss"],
   devtools: { enabled: true },
 });

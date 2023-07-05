@@ -14,6 +14,9 @@
     "nuxt": "^3.6.1"
   },
   "dependencies": {
-    "@formkit/nuxt": "^0.17.4"
+    "@formkit/addons": "^0.17.4",
+    "@formkit/nuxt": "^0.17.4",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "vue-multiselect": "^3.0.0-beta.2"
   }
 }
